@@ -52,11 +52,11 @@ const Welcome = () => {
                     </div>
                 </div>
 
-                <div className="flex flex-col flex-1 items-center justify-start w-full md:mt-0 mt-10">
+                {/* <div className="flex flex-col flex-1 items-center justify-start w-full md:mt-0 mt-10">
                     <div className="p-3 justify-end items-start">
-                        Container
+                        
                     </div>
-                </div>
+                </div> */}
             </div>
         </div>
     )
