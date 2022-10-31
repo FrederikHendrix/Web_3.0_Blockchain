@@ -5,14 +5,14 @@ import index from "./index.css";
 const App = () => {
 
   return (
-    <div className="min-h-screen">
+    <div className="min-h-screen bg-black">
       <div className="gradient-bg-welcome">
         <Navbar/>
         <Welcome/>
       </div>
-      <Services/>
+      {/* <Services/>
       <Transactions/>
-      <Footer/>
+      <Footer/> */}
     </div>
   )
 }
